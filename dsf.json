@@ -1,0 +1,45 @@
+{
+    "EnqueuedTimeUtc": "2022-12-05T05:22:42.6860000Z",
+    "Properties": {
+        "sequenceNumber": "498",
+        "batchId": "7351d5e2-0795-4b58-9452-82a1410f85fe"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "IotEdgeTest",
+        "connectionModuleId": "SimulatedTemperatureSensor",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "638058120443043026",
+        "enqueuedTime": "2022-12-05T05:22:42.6860000Z"
+    },
+    "Body": "eyJtYWNoaW5lIjp7InRlbXBlcmF0dXJlIjoxMDIuNzAwNTAyMzI1ODc0MiwicHJlc3N1cmUiOjEwLjMwNzY1MjE2MzcwNzE4N30sImFtYmllbnQiOnsidGVtcGVyYXR1cmUiOjIxLjIyOTkxNjQ0OTA0NDc5NCwiaHVtaWRpdHkiOjI1fSwidGltZUNyZWF0ZWQiOiIyMDIyLTEyLTA1VDA1OjIyOjQyLjY4NzQ3NTRaIn0="
+}
+{
+    "EnqueuedTimeUtc": "2022-12-05T05:22:47.6870000Z",
+    "Properties": {
+        "sequenceNumber": "499",
+        "batchId": "7351d5e2-0795-4b58-9452-82a1410f85fe"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "IotEdgeTest",
+        "connectionModuleId": "SimulatedTemperatureSensor",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "638058120443043026",
+        "enqueuedTime": "2022-12-05T05:22:47.6870000Z"
+    },
+    "Body": "eyJtYWNoaW5lIjp7InRlbXBlcmF0dXJlIjoxMDMuMDkxNTMzNDI3MTY5NDcsInByZXNzdXJlIjoxMC4zNTIyMDAwMTA2OTAxOTJ9LCJhbWJpZW50Ijp7InRlbXBlcmF0dXJlIjoyMC45OTQyMDExNjQ5MjI3NywiaHVtaWRpdHkiOjI2fSwidGltZUNyZWF0ZWQiOiIyMDIyLTEyLTA1VDA1OjIyOjQ3LjY5MDU0NVoifQ=="
+}
+{
+    "EnqueuedTimeUtc": "2022-12-05T05:22:52.6880000Z",
+    "Properties": {
+        "sequenceNumber": "500",
+        "batchId": "7351d5e2-0795-4b58-9452-82a1410f85fe"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "IotEdgeTest",
+        "connectionModuleId": "SimulatedTemperatureSensor",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "638058120443043026",
+        "enqueuedTime": "2022-12-05T05:22:52.6880000Z"
+    },
+    "Body": "eyJtYWNoaW5lIjp7InRlbXBlcmF0dXJlIjoxMDIuNzI0NjI1ODMyOTcxNjEsInByZXNzdXJlIjoxMC4zMTA0MDA0MTEzNTExOTZ9LCJhbWJpZW50Ijp7InRlbXBlcmF0dXJlIjoyMC42NzcyMTUzMDI5MTEyMjIsImh1bWlkaXR5IjoyNn0sInRpbWVDcmVhdGVkIjoiMjAyMi0xMi0wNVQwNToyMjo1Mi42OTMwOTA1WiJ9"
+}
